@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"genesisone.emailtemplate"},{"v":{"$numberInt":"2"},"unique":true,"key":{"identifier":{"$numberInt":"1"}},"name":"identifier_1","ns":"genesisone.emailtemplate","background":true}],"uuid":"3fb49e5e67474f2d97422d8dd9469b39"}
